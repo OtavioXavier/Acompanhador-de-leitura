@@ -2,4 +2,5 @@
 <resources>
     <color name="teste">#9f9b90</color>
     <color name="maincolor_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
 </resources>
