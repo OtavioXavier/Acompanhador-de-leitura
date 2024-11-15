@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AcompanhadorDeLeitura</string>
+    <string name="app_name">Acompanhador de leitura</string>
+    <string name="title_toast_splashScreen">Bem vindo(a) ao acompanhador de leitura!</string>
 </resources>

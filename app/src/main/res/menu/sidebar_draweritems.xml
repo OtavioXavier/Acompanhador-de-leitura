@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1">
+        <item
+            android:icon="@drawable/feedback"
+            android:id="@+id/navFeedBacks"
+            android:title="FeedBack"/>
+
+        <item
+            android:icon="@drawable/termos"
+            android:id="@+id/navTermos"
+            android:title="Termos e condições"/>
+
+        <item
+            android:icon="@drawable/contato"
+            android:id="@+id/navContato"
+            android:title="Entrar em contato"/>
+    </group>
+
+    <group
+        android:id="@+id/group2">
+        <item
+            android:icon="@drawable/compartilhar"
+            android:id="@+id/navCompartilhar"
+            android:title="Compartilhar"/>
+    </group>
+
+
+</menu>
